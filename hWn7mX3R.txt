@@ -207,6 +207,8 @@ acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  b6ff  -   NE
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  8c67  -   NE
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1991  -  NE6
 acestream://199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  5866  -  NE6
@@ -380,3 +382,4 @@ acestream://3d376333ee90d6db3d413fc5764ef635882076f5
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 group-title="Otros" tvg-id="La Sexta HD" tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" ,La Sexta  4482 - NE
 acestream://44828a7580cd99fcb36245c327889c47f34b457f
+
