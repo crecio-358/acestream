@@ -1,6 +1,6 @@
 #EXTM3U url="https://acestream.short.gy/ids"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,⭐️ACTUALIZACION SERVERS⭐️
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/FALLOS%20RECIENTES%20SERVERS.mp4
@@ -15,7 +15,7 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVAN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,NOVEDADES - BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,⭐️ACTUALIZACION SERVERS⭐️
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 
 #EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
