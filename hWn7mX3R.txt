@@ -17,26 +17,26 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVAN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,NOVEDADES - BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/FALLOS%20RECIENTES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
 https://github.com/crecio-358/Test/raw/refs/heads/main/ESTA%20APARECIENDO%20UN%20NUEVO%20ERROR%20EN%20MUCHOS%20DISPOSITIVOS_20251101_163835_0000.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
 https://acestream.short.gy/tutorialacestream
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVANTES.mp4
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  b08e - E
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
