@@ -1,6 +1,6 @@
 #EXTM3U url="https://acestream.short.gy/ids"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
@@ -17,26 +17,26 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVAN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,NOVEDADES - BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
+#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
+#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
+#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/FALLOS%20RECIENTES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
+#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
 https://github.com/crecio-358/Test/raw/refs/heads/main/ESTA%20APARECIENDO%20UN%20NUEVO%20ERROR%20EN%20MUCHOS%20DISPOSITIVOS_20251101_163835_0000.mp4
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
+#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
 https://acestream.short.gy/tutorialacestream
 
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
+#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
+#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVANTES.mp4
-#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
+#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  b08e - E
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
@@ -63,7 +63,7 @@ acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  8272 - NL
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
-#EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
@@ -138,7 +138,7 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  a70a - E2
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
-#EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,⭐️SERVER REPARADO⭐️
+#EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" ,ML Campeones  97df - E
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
@@ -218,12 +218,20 @@ acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,ML Campeones 5  5bed - E
 acestream://5bed693c6a22de55f1061c509bba5e3aeb2ea2aa
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,ML Campeones 5  3e43 - E2
+acestream://3e430d14ef1cf1c147c7b06332081291e05a1431
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" ,ML Campeones 5  cb64 - NE
 acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" ,ML Campeones 6  bf10 - E
-acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" ,ML Campeones 6  14be - E
+acestream://14bedc2ff054ae16c0fae99cfeb9dcda21ac68a0
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" ,ML Campeones 6  497e - E2
+acestream://497e2d0301fc289ccbd43080a580f63b718770e2
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" ,ML Campeones 6  9769 - NE
 acestream://976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" ,ML Campeones 7  95ce - E
+acestream://95ced66c1268717c19c1e3e020e3b23b0f02e504
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" ,ML Campeones 7  f222 - E2
+acestream://f22268a7d4a279feee02243d93a65cca2825c8e1
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" ,ML Campeones 7  83c0 - NE
 acestream://83c02982581a536d1321e38a77dc0c520b1cb842
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" ,ML Campeones 8  97f8 - NE
@@ -272,32 +280,44 @@ acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" ,DAZN 2 BAR  2f92 - NE
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4 - E
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  ed74 - E2
+acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  d234 - E2
+acestream://d23497596720b47b096ec0f850d6d26a19d1a336
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  b6ff  -   NE
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  8c67  -   NE
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,M Plus+ 2  fbc3  -  NE
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  c7c8
-acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  0e5d
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  476b - E
+acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  0e5d - E
 acestream://0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  ad5c - E2
+acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  866a - E2
+acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  3b2a - NE
 acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  2940 - NE
 acestream://2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  651d - NE
 acestream://651d6be899d1fafa107a265a9dc00ff914c1b548
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,#Vamos  Ellas 3040
-acestream://3040cfbef2d8170ff3909db6f21a6981d9ec74c8
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,#Vamos  Ellas 9b84 - NE
-acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  ebca
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,#Vamos 2  4ee1 - E
+acestream://4ee16a7f854219fa2974ef1468e6b2f8574189dd
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" ,#Vamos 2  5e31 - E2
+acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  ebca - E
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  2f3c
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  2f3c - E
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  c6a8 - E2
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  6e03 - E2
+acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  ef9d - NE
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  332d - NE
@@ -306,34 +326,48 @@ acestream://332d8fdeb9c51385230b8c9448e047ccc4a6355d
 acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" ,M+ Deportes  acb5 - NL
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  f0ee
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  f0ee - E
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  bfa0
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  bfa0 - E
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  3774 - E2
+acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  6b15 - E2
+acestream://6b15368775693c33c49fab02e7900c1976a5da90
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  edd0 - NE
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  6e21 - NE
 acestream://6e212a916c83638268047dd2757c95b14f7d25a3
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  3afe - NL
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  799c
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  799c - E
 acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  2fd4
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  2fd4 - E
 acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  f4d9 - E2
+acestream://f4d9011721fad5098febbe4d7c078a582e176a01
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  e9ce - E2
+acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  753d - NE
 acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" ,M+ Deportes 3  39fe - NL
 acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  b40e
-acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  590a - E
+acestream://590a1f4546e3a0d5d419b62b8177b44d6ce0339f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  4abe - E2
+acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  2a5d - E2
+acestream://2a5d90651e212106434edea5bfbba1a843b7b97c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  58a4 - NE
 acestream://58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  3f97 - NE
 acestream://3f97bafa133b10cfe5c62311e11501326d886a53
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" ,M+ Deportes 4  8b5f - NL
 acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5  7b36
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5  7b36 - E
 acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5  646a - E2
+acestream://646a1ed4ece843de1979f7888cbdd4d937506a28
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5  5913 - NE
 acestream://5913205fb6d6d162a50222709aab6129eb7cf916
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" ,M+ Deportes 5  2d19 - NE
@@ -348,6 +382,10 @@ acestream://190a81938c2ddc6fe97758271f8c48f4db31c28a
 acestream://8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" ,M+ Deportes 7  f7fa - NE
 acestream://f7fa1e42376d1d65d1bf5abca8728dff273d02d7
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" ,M+ Golf  9bb2   -   E2
+acestream://9bb2a7dc6c6a296609df8cc50e742a78194f7530
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" ,M+ Golf  f605   -   E2
+acestream://f60535a458b3c114283e2f433379144345beddd6
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" ,M+ Golf  8546   -   NE
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" ,M+ Golf  9be1   -   NE
