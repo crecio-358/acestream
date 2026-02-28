@@ -294,6 +294,10 @@ acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ac33 - E2
 acestream://ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ef34 - NE3
+acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
+#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  5548 - NL
+acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4 - E
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  ed74 - E2
