@@ -1,5 +1,7 @@
 #EXTM3U url="https://acestream.short.gy/ids"
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
@@ -17,27 +19,33 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVAN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,NOVEDADES - BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
+
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/FALLOS%20RECIENTES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
 https://github.com/crecio-358/Test/raw/refs/heads/main/ESTA%20APARECIENDO%20UN%20NUEVO%20ERROR%20EN%20MUCHOS%20DISPOSITIVOS_20251101_163835_0000.mp4
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
 https://acestream.short.gy/tutorialacestream
 
-#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
-#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVANTES.mp4
-#EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
+#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
+
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  b08e - E
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  bcf9 - E
@@ -58,10 +66,15 @@ acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  b5f3 - NE
 acestream://b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  724f - NE6
+acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  d652 - NL
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  8272 - NL
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
+
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
@@ -88,6 +101,8 @@ acestream://f863873de9f7b2996dde19a0657dd89835af3007
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga   d4ff -  NE
 acestream://d4ff041287a43e3114d411d671c4b4e92e21f31e
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga   b3bd -  NE6
+acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  31c1  -  NL
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  51b3 - E
@@ -128,6 +143,8 @@ acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889
 acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  d159 - NE
 acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  71cb - NE6
+acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga dda5 - NL
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  a231 - E
@@ -280,24 +297,31 @@ acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" ,DAZN 2 BAR  2f92 - NE
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="NUEVO CANAL MOTO GP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/new-product-sticker-icon-260nw-1223701150.jpg" ,NUEVO CANAL MOTO GP
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
+
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="NUEVO CANAL MOTO GP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/new-product-sticker-icon-260nw-1223701150.jpg" ,NUEVO CANAL MOTO GP
 https://github.com/crecio-358/Test/raw/refs/heads/main/MotoGP.mp4
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  c53b - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  c53b - E
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  342c - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  342c - E
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  129c - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  129c - E
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  e18b (IT) - E2
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  e18b (IT) - E2
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  20d4 (IT) - E2
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  20d4 (IT) - E2
 acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ac33 - E2
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ac33 - E2
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ef34 - NE3
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ef34 - NE3
 acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
-#EXTINF:-1 group-title="⭐️DAZN MotoGP⭐️" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  5548 - NL
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  18b0 - NE6
+acestream://18b03739d660f0066364343e226e437bf2555d56
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  5548 - NL
 acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4 - E
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  ed74 - E2
@@ -308,6 +332,8 @@ acestream://d23497596720b47b096ec0f850d6d26a19d1a336
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  8c67  -   NE
 acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  c1b7  -   NE6
+acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" ,M Plus+ 2  fbc3  -  NE
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" ,#Vamos  476b - E
@@ -412,13 +438,25 @@ acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" ,M+ Golf 2  96e8 - NE
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  87bb
+
+
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  87bb - E
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  a4f0
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  a4f0 - E
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLiga Hypermotion 2  7090
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  4636 - E2
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  1f75 - E2
+acestream://1f75d92098580443857caa95a719103cb83781b0
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLiga Hypermotion 2  7090 - E
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLiga Hypermotion 3  778d
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLiga Hypermotion 2  a5b9 - E2
+acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" ,LaLiga Hypermotion 2  3a21 - E2
+acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLiga Hypermotion 3  778d - E
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  0db6 - E
 acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
@@ -434,12 +472,12 @@ acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  1b0b - NL (RUSO)
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  24f9
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  24f9 - E
 acestream://24f940fef7e270b6b3ae5d9dc713a80c8345cfba
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  5c91
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  5c91 - E
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  f590
-acestream://f5908690485ae2facecf3074446ba4315f07a193
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  d01d - E
+acestream://d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  dc4c - NE
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  2773 - NE
