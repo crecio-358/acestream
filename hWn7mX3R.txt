@@ -1,6 +1,8 @@
 #EXTM3U url="https://acestream.short.gy/ids"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
@@ -19,32 +21,38 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVAN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,NOVEDADES - BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/istockphoto-2193535256-612x612.jpg" ,ACTUALIZACION SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACIONES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/senal-peligro-sistema-hackeado-o-ataque-cibernetico-ilustracion-vectorial_268834-2307.jpg" ,RECIENTE FALLO SERVERS
 https://github.com/crecio-358/Test/raw/refs/heads/main/FALLOS%20RECIENTES%20SERVERS.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/error.png" ,IMPORTANTE - NUEVO ERROR PREMIUM
 https://github.com/crecio-358/Test/raw/refs/heads/main/ESTA%20APARECIENDO%20UN%20NUEVO%20ERROR%20EN%20MUCHOS%20DISPOSITIVOS_20251101_163835_0000.mp4
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/images%20(2).jpeg" ,IMPORTANTE - TUTORIAL ACESTREAM
 https://acestream.short.gy/tutorialacestream
 
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://cdn-icons-png.flaticon.com/512/4359/4359944.png" ,ULTIMAS NOVEDADES
 https://github.com/crecio-358/Test/raw/refs/heads/main/ULTIMAS_NOVEDADES_RELEVANTES.mp4
-#EXTINF:-1 group-title="⭐️NOVEDADES⭐️" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
+#EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+
+#EXTINF:-1 group-title="DAZN F1" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  b08e - E
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
@@ -72,8 +80,9 @@ acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  8272 - NL
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
-
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
@@ -155,6 +164,9 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  a70a - E2
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
+
+#EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
 #EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/272357.png" ,SERVER REPARADO
 https://github.com/crecio-358/Test/raw/refs/heads/main/ACTUALIZACI%C3%93N%20ELCANO.mp4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" ,ML Campeones  97df - E
@@ -253,6 +265,8 @@ acestream://f22268a7d4a279feee02243d93a65cca2825c8e1
 acestream://83c02982581a536d1321e38a77dc0c520b1cb842
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" ,ML Campeones 8  97f8 - NE
 acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  9afc    -    E
 acestream://9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  7ba1    -    E
@@ -297,7 +311,9 @@ acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" ,DAZN 2 BAR  2f92 - NE
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="NUEVO CANAL MOTO GP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/new-product-sticker-icon-260nw-1223701150.jpg" ,NUEVO CANAL MOTO GP
@@ -320,7 +336,9 @@ acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
 acestream://18b03739d660f0066364343e226e437bf2555d56
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  5548 - NL
 acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4 - E
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
@@ -439,8 +457,9 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" ,M+ Golf 2  96e8 - NE
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 
-
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,⭐️VUELVE NE6⭐️
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/signo-neon-gratuito-vector-we-are-back-descargar-icono-we-are-back-ui-logotipo-we-are-back-aplicaciones_742443-368.jpg" ,VUELVE NE6
 https://github.com/crecio-358/Test/raw/refs/heads/main/VUELVE%20NE6.mp4
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  87bb - E
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
@@ -458,6 +477,8 @@ acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
 acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" ,LaLiga Hypermotion 3  778d - E
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
+#EXTINF:-1 group-title="Otros deportes" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  0db6 - E
 acestream://0db68ab752b50e6bb257eef22d102c1d29cd92ea
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  a7b4 - E
@@ -500,6 +521,8 @@ acestream://472d1f3a658a51bcab0ffa9138e1e28a05fba30b
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Barcelona TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,BarÃ§a  e336
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 group-title="Otros" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,⭐️IMPORTANTE - ACTUALIZACION ACESTREAM⭐️
+https://acestream.short.gy/tutorial18abril
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1  7597 - NE
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  9934 - NE
