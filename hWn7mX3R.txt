@@ -85,7 +85,7 @@ acestream://724f9b252b11064e3f16220717fd52bd3a510b5f
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  8272 - NL
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,⭐️VERSION DEFINITIVA ACESTREAM⭐️
 https://acestream.short.gy/tutorial22abril
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/update-icon-vector-template-illustration-logo-design_942802-3550.jpg" ,IMPORTANTE - ACTUALIZACION ACESTREAM
