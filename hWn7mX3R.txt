@@ -280,23 +280,23 @@ acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
 https://acestream.short.gy/tutorial22abril
 
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  c53b - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  c53b - E
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  342c - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  342c - E
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  129c - E
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  129c - E
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  e18b - E2
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  e18b - E2
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ac33 - E2
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  ac33 - E2
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  11cb - NE
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  11cb - NE
 acestream://11cbb5346d28af0b972e646832f4be23dd39502d
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  ef34 - NE3
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  ef34 - NE3
 acestream://ef341794651e00b7fcc5b5da8570ea37418c5406
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  18b0 - NE6
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  18b0 - NE6
 acestream://18b03739d660f0066364343e226e437bf2555d56
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN Moto GP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" ,DAZN Moto GP  5548 - NL
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  5548 - NL
 acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
 https://acestream.short.gy/tutorial22abril
