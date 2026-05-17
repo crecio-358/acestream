@@ -132,7 +132,11 @@ acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  635b - NE
 acestream://635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" ,DAZN LaLiga 5  c22b - E
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png" ,DAZN LaLiga 4  9ce7 - E
+acestream://9ce7e5f61ee6125c685de30b998b7aa9a0d9accd
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png" ,DAZN LaLiga 4  fd89 - E
+acestream://fd89bfb7b1c6005dc874ef6c0771c09372461539
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" ,DAZN LaLiga 5  c22b - E
 acestream://c22b1093b5db093efe6a20a51ce8c577316c302e
 #EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
 https://acestream.short.gy/tutorial22abril
