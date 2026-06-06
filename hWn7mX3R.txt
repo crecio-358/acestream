@@ -16,7 +16,7 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Notic
 
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,Antiguos DAZN LaLiga funcionan como DAZN Mundial
 https://daznlaligafuncionacomo.daznmundial
-#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,Si pone (LL), es antiguo DAZN LaLiga
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,Si pone (LL) es antiguo DAZN LaLiga
 https://llesdazn.laliga
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1  4142 - E
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
