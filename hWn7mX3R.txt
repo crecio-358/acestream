@@ -14,7 +14,7 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
 #EXTINF:-1 group-title="NOVEDADES" tvg-id="NOVEDADES" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/computer-icons-lock-image-clip-art-lock-f6041a5043fc789331a693cf643a8038.png" ,BLOQUEOS
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
-#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,DAZN LaLiga funcionan como Mundial
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,DAZN LaLiga son DAZN Mundial
 https://daznlaligafuncionacomo.daznmundial
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://cdn-icons-png.flaticon.com/512/10255/10255598.png" ,Si pone (LL) es antiguo DAZN LaLiga
 https://llesdazn.laliga
