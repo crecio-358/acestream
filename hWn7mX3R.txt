@@ -20,14 +20,18 @@ https://daznlaligafuncionacomo.daznmundial
 https://llesdazn.laliga
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1  4142 - E
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1 (LL) 385a - E
-acestream://385abcf801b787eec6ed6624908758bb165c0a55
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1  ccfd - E2
+acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1 (LL) 71cb - NE6
 acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1 (LL) dda5 - NL
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" ,DAZN Mundial 1 (EVENTUAL) 3c41 - NE6
+acestream://3c4185422b04ef24c80e015210339f805d80f9f0
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" ,DAZN Mundial 2  63b1 - E
 acestream://63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" ,DAZN Mundial 2 (LL) 4650 - E
-acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
+#EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" ,DAZN Mundial 2 (LL) a7ab - NE6
+acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png" ,DAZN Mundial 3  7cf3 - E
 acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 group-title="DAZN MUNDIAL" tvg-id="DAZN Mundial 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" ,DAZN Mundial 4  aab0 - E
