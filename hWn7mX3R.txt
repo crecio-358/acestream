@@ -122,8 +122,8 @@ acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 acestream://8a25653a2f774f4ae1062d38a30dcd714d304a3a
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  4650 - E
 acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  c976 - E
-acestream://c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  d7ce - E
+acestream://d7ce121c775a303c470d2139b8e8cfa0db38adad
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  b63f - E2
 acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  a70a - E2
@@ -299,6 +299,8 @@ acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
 acestream://b18dda520e112e48a33d6d0ae558681b9ecfbb4d
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  e18b - E2
 acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  20d4 - E2
+acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  ac33 - E2
 acestream://ac33342ccf7d40d46174229085461d95000b9137
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  11cb - NE
