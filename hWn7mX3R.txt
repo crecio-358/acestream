@@ -74,26 +74,16 @@ acestream://766581386c3eea8b7341f41e0ca6ff6c407669f9
 acestream://aadffc9105dd11de902eb5fd3dfd8430d2cd9997
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  b8eb - NL
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  7bd9 - E
-acestream://7bd9d072b65919352bda907b472961641e6e2930
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  7a8c - E
-acestream://7a8c26ece4d1ce106225a2bc66260f6a5b9be913
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  db16 - E2
-acestream://db167236340a84f74c4add77ad708ab137b53cb1
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  830c - E2
-acestream://830ceea0061cddf3006de6f34e24b30f8ee0956a
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  7f96 - E
+acestream://7f96f353e0dbc40fcdd62735642030400b73d162
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  3824 - E
+acestream://38246145da6de165102df8ade72d1a1c12b76d57
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  c9af - NE
 acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  571c - NL
-acestream://571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" ,M+ LaLiga 4  ef22 - E
-acestream://ef22f5802c2fa4cce93d209727758c0eb04fc351
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" ,M+ LaLiga 4  ac91 - E
-acestream://ac91a7162abe8d716d180b02e58ab97848944c1e
+acestream://571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" ,M+ LaLiga 4  2217 - NL
-acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%205.png" ,M+ LaLiga 5  56ef - E
-acestream://56ef80b811b65df74edae1f2a23805c45600caad
+acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  c278 - E
 acestream://c278f1d8b6964a55210b313d658eb439cc15ecee
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  5217 - E
