@@ -259,16 +259,16 @@ acestream://1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" ,DAZN 2 BAR  2f92 - NE
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  72b4 - E
-acestream://72b447705d03e4f43b8787c4a33ba4aa7f51b9ae
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  9713 - E
-acestream://971356e1ba24be93be9ef28eb3070c205e7cdda4
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  27fd - E
+acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  49ce - E
+acestream://49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  c11d - E
 acestream://c11df87a147345702c73a14e9add4f23c42ffc2c
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  6072 - E2
-acestream://60722ef6ae212394527f96c61e95cad3ddac1b91
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  6582 - E2
-acestream://658258178cb9b77d4ad628e0eb8b4b5958b32a6e
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  002e - E2
+acestream://002ebb242685b729fd1235fc24c93110593343a6
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  aaf8 - E2
+acestream://aaf8f939186264a31449c5e31ebf424965b0369f
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  5d6f - E2
 acestream://5d6fdffe470f758626c8a8dfaf86882415e394b1
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  11cb - NE
