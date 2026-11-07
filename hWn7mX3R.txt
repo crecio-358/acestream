@@ -15,18 +15,18 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
 
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  f8b0 - E
-acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  0a81 - E
-acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  02be - E
-acestream://02be332ebead0484a5354fa25e97b6833b8b129e
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  f16d - E
-acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  f8cc - E
+acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  dc14 - E
+acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  7017 - E
+acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  cc1e - E
+acestream://cc1e589254acacb246733233397d50e3ab3591a7
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  2008 - E
 acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  895d - E2
-acestream://895d08633bb22c2573281655cf3ca44de476cc73
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  4236 - E2
+acestream://4236714aa65e854f90bb6b710369bfb6e862cb23
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  27d1 - E2
 acestream://27d11bbeb3026231d52de16b1fac48da7a099247
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  6422 - NE
@@ -48,38 +48,38 @@ acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  8272 - NL
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  4e84  -  E
-acestream://4e844ef8ef9f2f6dbdd3bd2c3b11a3f773a318a6
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  9259  -  E
-acestream://925947ef0c09e1ad52b4149afee1b09389af02cd
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  f360  -  E
-acestream://f360890431ea544545be7594a7eb91d53a59b433
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  9955  -  E
-acestream://995574ee5c2015c5a897ea414e9fe71c9ea9f4af
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  cdf2  -  E2
-acestream://cdf251af580d44a71302fb5634b734981a77f8b7
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  f0ca  -  E2
-acestream://f0caa9805cc64698dde2df1d96ed7ca46be5ea2c
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  9564  -  E2
-acestream://9564bbcd75b67dfb2bd13f5f4d285cbba477a06f
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  3d4c  -  E
+acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  25ba  -  E
+acestream://25ba36fb3ff78d37b304177cb5b9f9f84348d2ad
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  7262  -  E
+acestream://72626ce6e2f0dc8f0a71ac1d9b960d3cc166c86e
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  69f7  -  E
+acestream://69f76f6516620d91612e7509077b5ac3bb4d3c0b
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  aae8  -  E2
+acestream://aae8bcb9b00c4505ccfa5981b860da012e8cf23e
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  e182  -  E2
+acestream://e1825dc2deae9f24ef55e6ff11fe780201ae758d
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  1c00  -  E2
+acestream://1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  0b5f -  NE6
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  31c1  -  NL
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  579a - E
-acestream://579a60ba5440a52d606a3c5deb4397b11f19128c
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  7665 - E
-acestream://766581386c3eea8b7341f41e0ca6ff6c407669f9
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  aadf - E2
-acestream://aadffc9105dd11de902eb5fd3dfd8430d2cd9997
 
-
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  e26e - E
+acestream://e26e32779e026f1c51353b8fca92860765cf8e3c
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  93e2 - E
+acestream://93e21c01e9a7bc7418ac04f220ee87c3c2fddd2d
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  4c81 - E2
+acestream://4c8107cd9165bafd80ad21a71e8285a9a4c990df
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  b8eb - NL
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  7f96 - E
-acestream://7f96f353e0dbc40fcdd62735642030400b73d162
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  3824 - E
-acestream://38246145da6de165102df8ade72d1a1c12b76d57
+
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  7a94 - E
+acestream://7a949c4fcdb7031281a7bb69b2227945854bfb37
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  1b44 - E
+acestream://1b449fcf682ca2980e91371dd9b76f65f40c8b7a
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  c9af - NE
 acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" ,M+ LaLiga 3  571c - NL
@@ -88,14 +88,14 @@ acestream://571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" ,M+ LaLiga 4  2217 - NL
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  c278 - E
-acestream://c278f1d8b6964a55210b313d658eb439cc15ecee
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  5217 - E
-acestream://521743597320cfd3687c673cf92b6e9906158b09
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  7866 - E
-acestream://7866c708c2280ed8a02bc169ed5453fcd481a06a
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  5bf8 - E
+acestream://5bf898b0ffc2ca662b898a424a988a922ab88abd
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  599f - E
+acestream://599fb52eba4bd937b2029210bdeca9f1a34a32da
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  7f89 - E
+acestream://7d898e9c227d706e5479b9b523ad615847825d14
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  4694 - E2
-acestream://46949ff98c05dd3471da249f2c7121d6fa198294
+acestream://529f5abd2c87209f69c0727ade740ff6f160be88
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  d159 - NE
 acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  19f2 - NE
@@ -105,12 +105,12 @@ acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" ,DAZN LaLiga  dda5 - NL
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  2863 - E
-acestream://2863efc6015053e2a5f5c0bf1168ce08aa76cb5f
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  e8b7 - E
-acestream://e8b742b2d33a53f7c3c190e0cdbdcc8904eb3607
-#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  2c75 - E2
-acestream://2c7509111c5a8ee7842e2af72d4285d4a2ad1cd8
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  4ef8 - E
+acestream://4ef8d5f781b709d479cfc3961de9c92f0f0dcb0c
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  34d4 - E
+acestream://34d4ed86aa5e56a84b151a80f6904605a0f77854
+#EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  4855 - E2
+acestream://4855b5c3263f207260e1c6cbd8c234df799cf7f2
 #EXTINF:-1 group-title="LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" ,DAZN LaLiga 2  635b - NE
 acestream://635b61c1f240449163260cd914d10d886a54fee3
 
