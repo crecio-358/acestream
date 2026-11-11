@@ -1,7 +1,7 @@
 #EXTM3U url="https://acestream.short.gy/ids"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
 https://acestream.short.gy/tutorial22abril
 #EXTINF:-1 tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
@@ -10,7 +10,7 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
 #EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/system-update-icon-update-symbol-in-progress-flat-design-sign-on-a-white-background-free-vector.jpg" ,VERSION DEFINITIVA ACESTREAM
 https://acestream.short.gy/tutorial22abril
 #EXTINF:-1 group-title="🌟NOVEDADES🌟" tvg-id="NOVEDADES" tvg-logo="https://centralamerica.nimd.org/wp-content/uploads/2023/05/Novedades-1.png" ,NEW ERA - NOVEDADES
@@ -19,7 +19,7 @@ https://github.com/crecio-358/Test/raw/refs/heads/main/Volvemos_a_tope.mp4
 https://github.com/crecio-358/Test/raw/refs/heads/main/Presentaci%C3%B3n%20Noticias%20Telediario%20Redacci%C3%B3n%20Periodismo%20Profesional%20Corporati_20250819_172150_0006.mp4
 
 #EXTINF:-1 group-title="DAZN F1" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  f8cc - E
 acestream://f8cc362318bc6b667dd6ba90969e3b34675c9a85
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" ,DAZN F1  dc14 - E
@@ -54,7 +54,7 @@ acestream://d65257bb934b73647374224fd62d836815804be2
 acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  3d4c  -  E
 acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  25ba  -  E
@@ -123,7 +123,7 @@ acestream://635b61c1f240449163260cd914d10d886a54fee3
 
 
 #EXTINF:-1 group-title="M+ Champions" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" ,ML Campeones  f079 - E
 acestream://f079cadc2ec13a5565c1deb0dee7bc9bb053affe
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" ,ML Campeones  76f0 - E
@@ -216,7 +216,7 @@ acestream://83c02982581a536d1321e38a77dc0c520b1cb842
 acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
 #EXTINF:-1 group-title="DAZN" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  7812    -    E
 acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  f9c6    -    E
@@ -272,7 +272,7 @@ acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 
 
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  27fd - E
 acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  49ce - E
@@ -293,7 +293,7 @@ acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
 acestream://063ee4ffa4676940f14a85e24f928cc1c9d6ae2d
 
 #EXTINF:-1 group-title="Baloncesto" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto 2cfb - E
 acestream://2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto 6fbd - E
@@ -318,7 +318,7 @@ acestream://c8c33b2673efe7f386790c5966643820578f3535
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
 
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  1ab4 - E
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" ,M Plus+  ed74 - E2
@@ -471,7 +471,7 @@ acestream://597cca4ef375529aaca0608b43187d99d26ca714
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  e4cb - E
 acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" ,LaLiga Hypermotion  2c54 - E
@@ -502,7 +502,7 @@ acestream://589dfc625c0ddcd9960e40aaf8235ea58705f784
 acestream://a4b1b0a338a18d9b1e2049eb57e99e702399095d
 
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  8522 - E
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  3132 - E
@@ -539,7 +539,7 @@ acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 #EXTINF:-1 group-title="RFEF TV" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="RFEF TV" tvg-id="Primera Federacion" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" ,RFEF TV  854f - E
 acestream://854ff9c607101791346111cd2366a392c3b8c351
 #EXTINF:-1 group-title="RFEF TV" tvg-id="Primera Federacion" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" ,RFEF TV  3fbc - E
@@ -550,7 +550,7 @@ acestream://177796041773be99b489dd3ce86144f243e7355f
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
 
 #EXTINF:-1 group-title="Otros" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
-https://github.com/crecio-358/Test/raw/refs/heads/main/Actualizaci%C3%B3n%20Lista%20Edit.mp4
+https://acestream.short.gy/actualizacion_lista
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1  7597 - NE
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  9934 - NE
