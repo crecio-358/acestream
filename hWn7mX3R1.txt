@@ -248,10 +248,10 @@ acestream://43572587b8e9fd112d43b66a36f8ab2c591d87d1
 acestream://49545d05f95846e93fd8f08da320be866995c550
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  197d    -    E2
 acestream://197d83a078e3f6c6ff15a254c7a9635b3fbde20f
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  7886    -    E2
-acestream://7886baf0ea1f3e449e35b24840c2cbbbd32b5809
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  7dfd    -    E2
 acestream://7dfdad16b3f6e75015a3496f43f3a7d290f3e3bc
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  7886    -    E2
+acestream://7886baf0ea1f3e449e35b24840c2cbbbd32b5809
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  4756    -    E2
 acestream://4756343043f30011fa304c6635bfe36fd3429da9
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" ,DAZN 1  6917    -    NE
@@ -307,6 +307,8 @@ acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11
 acestream://49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  c11d - E
 acestream://c11df87a147345702c73a14e9add4f23c42ffc2c
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  0335 - E
+acestream://03350f8996d41efb71c3e7a9a777e41d11df702f
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  002e - E2
 acestream://002ebb242685b729fd1235fc24c93110593343a6
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  aaf8 - E2
@@ -433,6 +435,8 @@ acestream://ac66efa6cf24464dcc7f94049775ae580d7ba569
 acestream://592c427008038847d6486daa7c3afd7a72f447da
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  3ee6 - E
 acestream://3ee6a0b0e3cacea68107f61bf398f651d8159eed
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  1b2f - E
+acestream://1b2fa9271093795a60109fd708de467e5167c83c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  1c15 - E2
 acestream://1c15bb40e6b2d153e3b30ed28eaa057ea44c3f41
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" ,M+ Deportes 2  f62f - E2
