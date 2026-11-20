@@ -529,10 +529,10 @@ acestream://a4b1b0a338a18d9b1e2049eb57e99e702399095d
 
 #EXTINF:-1 group-title="Eurosport" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
 https://acestream.short.gy/actualizacion_lista
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  8187 - E
+acestream://818735480ae40a4207ece5153ef9a3e798cef7aa
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  8522 - E
 acestream://8522af51ae7189b12effabbb448dcb707195ce1a
-#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  3132 - E
-acestream://313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  ca18 - E2
 acestream://ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  bae9 - NE
@@ -543,10 +543,10 @@ acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" ,Eurosport 1  1b0b - NL (RUSO)
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  be1a - E
+acestream://be1ab9f792dac014fc3ce8e7a52e6bdd92bea6c6
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  dcc3 - E
 acestream://dcc3be2e16b61b10557d8a7e954c5496ba5e4b60
-#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  7152 - E
-acestream://7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  ce85 - E2
 acestream://ce85dfd81162036f5d113343332e523ca94ce825
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" ,Eurosport 2  3ebc - E2
