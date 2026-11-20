@@ -332,8 +332,8 @@ acestream://81726596472933c3dfc9b3cd31fef7d0716c8ba4
 acestream://788891525283f541893b809c54d1b9cbe2344dc5
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto dd23 - E2
 acestream://dd23f050bfa06aa868adbead83abbde73d1bc7b9
-#EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 8edc - E
-acestream://8edc606f4b349f43db14f5190180e2873659e972
+#EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 ac45 - E
+acestream://ac457cdad9e0b4333cd3a385ac54dab0dce6d881
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 0dde - E2
 acestream://0ddecad49d6b1d9546dd599514e9ccf9deb95bf7
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" ,DAZN Baloncesto 3 e4cc - E
