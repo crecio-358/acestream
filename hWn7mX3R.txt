@@ -75,8 +75,8 @@ acestream://7edf0f41f687da726d45d5b08f1bf670f18f5063
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  31c1  -  NL
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  10f8 - E
-acestream://10f8b302cc3b2eb96ee53130286988f07845467a
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  8a97 - E
+acestream://8a97bd922deed4f88a6e87a730d3ed4f8867851a
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  93e2 - E
 acestream://93e21c01e9a7bc7418ac04f220ee87c3c2fddd2d
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" ,M+ LaLiga 2  2edb - E2
@@ -329,10 +329,10 @@ https://acestream.short.gy/actualizacion_lista
 acestream://da0e753297be3820bab96bb472bd9d2a148d10c1
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  e99c - E
 acestream://e99cb297cf1caf3ab108f4a6ee05d13674a3a880
+#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  ee63 - E
+acestream://ee6338ddc4fba29bb800769ed714afb825ab26eb
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  0ede - E
 acestream://0ede54943cb9471a6a0c66417f2fb54c5c457873
-#EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  36e6 - E
-acestream://36e61c0f5bf9c83ef3bfe9777e3d2f7d9e8e62df
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  d795 - E2
 acestream://d7952947a5490e9760ffdc08431659071513e3d6
 #EXTINF:-1 group-title="DAZN MotoGP" tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" ,DAZN MotoGP  aaf8 - E2
@@ -360,8 +360,8 @@ acestream://1020bfc5ec9a2c1b668cce2c9d04e1bc2ca9b944
 acestream://788891525283f541893b809c54d1b9cbe2344dc5
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto dd23 - E2
 acestream://dd23f050bfa06aa868adbead83abbde73d1bc7b9
-#EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 ac45 - E
-acestream://ac457cdad9e0b4333cd3a385ac54dab0dce6d881
+#EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 5bcd - E
+acestream://5bcde9c87de5db0614a77281d6ed437de27a9018
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" ,DAZN Baloncesto 2 5ebe - E2
 acestream://5ebe8c2bc85fb9c555403031b7af759b05aa4087
 #EXTINF:-1 group-title="Baloncesto" tvg-id="DAZN Baloncesto 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" ,DAZN Baloncesto 3 c6a4 - E
