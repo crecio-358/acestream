@@ -57,6 +57,10 @@ acestream://8272d1ed95cdd8945c248ce488fa26bd435fb71f
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://raw.githubusercontent.com/crecio-358/Test/refs/heads/main/actualizaci%C3%B3n_lista_logo.jpg" ,🌟IMPORTANTE ACTUALIZACIÓN🌟
 https://acestream.short.gy/actualizacion_lista
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" ,LaLiga TV BAR  870b  -  E
+acestream://870b4b4d88a409d99f42f55fff09521e17eb8def
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" ,LaLiga TV BAR  3c49  -  E
+acestream://3c49188ac3b8fa1f6661ee49213387b1a12e0502
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  ab26  -  E
 acestream://ab26ca2517da28f74a3ac55c5eb956d5bf8633b4
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" ,M+ LaLiga  9236  -  E
